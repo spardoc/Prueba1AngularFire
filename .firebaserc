@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "prueba1-483fc": {
+      "hosting": {
+        "Prueba1": [
+          "prueba1-483fc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "prueba1-483fc"
+  }
+}
